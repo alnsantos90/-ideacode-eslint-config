@@ -1,6 +1,6 @@
 {
   "name": "@ideacode/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create config eslint",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alnsantos90/base-config-eslint.git"
+    "url": "https://github.com/alnsantos90/-ideacode-eslint-config.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alnsantos90/base-config-eslint/issues"
+    "url": "https://github.com/alnsantos90/-ideacode-eslint-config/issues"
   },
-  "homepage": "https://github.com/alnsantos90/base-config-eslint#readme",
+  "homepage": "https://github.com/alnsantos90/-ideacode-eslint-config#readme",
 
   "peerDependencies": {
     "eslint": "^8.0.0",

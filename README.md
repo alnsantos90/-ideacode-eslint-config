@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @base/eslint-config
+npm i -D eslint @ideacode/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@base/eslint-config/next", 
+    "@ideacode/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @base/eslint-config
+npm i -D eslint @ideacode/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@base/eslint-config/react"
+  "extends": "@ideacode/eslint-config/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @base/eslint-config
+npm i -D eslint @ideacode/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@base/eslint-config/node"
+  "extends": "@ideacode/eslint-config/node"
 }
 ```
